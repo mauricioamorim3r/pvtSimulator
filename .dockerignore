@@ -1,0 +1,16 @@
+.git
+.gitignore
+.venv
+__pycache__/
+backflash_app/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.zip
+neqsim-python-extracted/
+neqsim-master (1).zip
+neqsim-python-master.zip
+simulpvt_backflash_app_bundle.zip
+install_local.bat
+run_local.bat

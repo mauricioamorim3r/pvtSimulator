@@ -1,0 +1,18 @@
+.venv/
+__pycache__/
+backflash_app/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.pytest_cache/
+.mypy_cache/
+.streamlit/
+
+simulpvt_backflash_app_bundle.zip
+neqsim-python-extracted/
+neqsim-master (1).zip
+neqsim-python-master.zip
+
+.DS_Store
+Thumbs.db
